@@ -22,4 +22,4 @@ and interrupt-driven logic.
 - Arduino Nano
 
 ## Demo Video
-[Watch on YouTube](https://youtube.com/shorts/mufAcJLIRyg?si=tJaTyW3kexhBAo4a)
+[![Watch on YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?logo=youtube)](https://youtube.com/shorts/mufAcJLIRyg?si=tJaTyW3kexhBAo4a)
