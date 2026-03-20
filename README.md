@@ -1,5 +1,4 @@
-# AVR-Running-Light
-Sequential LED control system using AVR register-level programming on Arduino Nano with interrupt handling
+# AVR Running Light
 
 ## Overview
 A responsive LED control system programmed in AVR-C on an Arduino Nano.
